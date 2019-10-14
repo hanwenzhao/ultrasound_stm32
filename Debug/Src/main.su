@@ -1,0 +1,5 @@
+main.c:75:5:main	1016	static
+main.c:136:6:SystemClock_Config	216	static
+main.c:191:6:vprint	216	static
+main.c:200:6:serial_printf	16	static
+main.c:215:6:Error_Handler	4	static
